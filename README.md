@@ -43,7 +43,7 @@ All vision and tracking logic is handled by Python, with servo control and outpu
 
 ## 📷 Demo / Media
 
-[▶️ Watch the turret in action](https://youtube.com/YOUR_VIDEO_LINK_HERE](https://youtu.be/3qwyTSqhmsA?si=3sgaZv402nGZB9x5)
+[▶️ Watch the turret in action](https://youtu.be/3qwyTSqhmsA?si=3sgaZv402nGZB9x5)
 
 ---
 
